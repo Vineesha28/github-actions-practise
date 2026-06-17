@@ -1,0 +1,34 @@
+{
+    "products":[
+    {
+        "name" : "Blue Jeans",
+        "category" : "APPAREL & SHOES",
+        "imageAlt" : "Picture of Blue Jeans"
+    },
+    { 
+        "name" : "Green and Blue Sneaker",
+        "category" : "APPAREL & SHOES",
+        "imageAlt" : "Picture of Blue and Green Sneaker"  
+    },
+    {
+        "name" : "Diamond Pave Earrings",
+        "category" : " JEWELRY",
+        "imageAlt" : " Picture of Diamond Pave Earrings"
+    },
+    {
+        "name" : "Vintage Style Three Stone Diamond Engagement Ring",
+        "category" :" JEWELRY",
+        "imageAlt" : " Picture of Vintage Style Three Stone Diamond Engagement Ring"
+    },
+    {
+        "name" : "Fiction",
+        "category" : "BOOKS",
+        "imageAlt" : " Picture of Fiction"
+    },
+    {
+        "name" : "Fiction EX",
+        "category" : "BOOKS",
+        "imageAlt" : " Picture of Fiction EX"
+    }
+]
+}
